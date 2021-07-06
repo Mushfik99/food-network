@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    padding:0px;
+}
+ a{
+    text-decoration: none;
+    color:white;
+    background-image: linear-gradient(#FB924A,#FD4E30);
+    padding:10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+p{
+    color:#B4B4B4;
+}
+span{
+    color:#FB984C;
+}
+.contain{
+    margin-top: 100px;
+} 
+.contain p{
+    margin-bottom: 40px;
+}
+.head{
+    font-size: 50px;
+    margin:0px;
+    color:#B4B4B4;
+}
+section{
+    display:flex;
+}
+.half-area{
+    width:50%;
+    margin:40px 89px 48px 100px;
+}
+.half-area img{
+    width:100%;
+}
+.about-area .half-area img{
+    height: 117%;
+    width: 50%;
+}
+.about-area{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    height: 400px;
+    padding:0px 150px;
+
+}
+.about-area h1{
+    color:#B4B4B4;
+}
+.about-area p{
+    margin-bottom: 50px;
+
+}
+.recipe{
+    text-align: center;
+    margin:50px auto 20px;
+    width: 50%;
+}
+.recipe-image{
+    width:90%;
+    margin:0px auto;
+
+}
+
+.food{
+    width:30%;
+    box-shadow:10px 10px 40px gray;
+    margin-right:5% ;
+    border-radius: 20px;
+    padding:16px;
+
+}
+.food img{
+    width:100%;
+}
+.voter{
+    width: 82%;
+    margin: 55px auto 70px;
+    box-shadow: 10px 10px 30px grey;
+    padding: 20px;
+    border-radius: 28px;
+    margin-right: 127px;
+}
+.subscirbe{
+    width: 30%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+footer{
+    width:100%;
+    margin:0px auto;
+    text-align:center;
+    background-color: #0B0D17;
+    height:200px;
+    padding-top:10px;
+}
+footer h1{
+    color:#B4B4B4;
+    
+}
